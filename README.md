@@ -55,7 +55,7 @@ For this assignment, it is recommended to read at least the **Python+Numpy** tut
 
 See the ipython notebook from the class for reference.
 
-- **Q1**) [Download](http://archive.ics.uci.edu/ml/datasets/Housing) the Housing
+- **Q1**) Get the [Housing](data_housing.names)
 Data Set from the UCI repository (it is different from the one used in the notebook!). 
 
 - **Q2**) Load the data (using *numpy.loadtxt*) and separate the last column
